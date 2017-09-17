@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Tanwir. All Rights Reserver.
+  ~ <p>
+  ~ Save to the extent permitted by law, you may not use,copy,modify,
+  ~ distribute or create derivative works of this material or any part
+  ~ of it without the prior written consent of Tanwir.
+  ~ <p>
+  ~ The above copyright notice and this permission notice shall be included in
+  ~ all copies or substantial portions of the Software.
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+    android:startColor="#ff4081"
+    android:centerColor="#ff4080"
+    android:endColor="#c51162"
+    android:angle="270" />
+
+    <!--<gradient-->
+        <!--android:startColor="#18d7e5"-->
+        <!--android:centerColor="#16cedb"-->
+        <!--android:endColor="#09adb9"-->
+        <!--android:angle="270" />-->
+</shape>

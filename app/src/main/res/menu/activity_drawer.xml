@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/tab_home_unselect"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@mipmap/tab_speech_unselect"
+            android:title="Chat" />
+        <item
+            android:id="@+id/nav_person"
+            android:icon="@mipmap/tab_contact_unselect"
+            android:title="Person" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@mipmap/tab_more_unselect"
+                android:title="Setting" />
+        </menu>
+    </item>
+</menu>
